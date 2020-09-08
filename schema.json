@@ -1,0 +1,17 @@
+{
+    "backheader0": "#515072"
+    , "backheader1"  : "#515072"
+    , "backheader2"  : "#515072"
+    , "backmain"    : "#ffffff"
+    , "backwindow"  : "whitesmoke"
+    , "backpanel"   : "whitesmoke"
+    , "backdialog"  : "whitesmoke"
+    , "fontmain"    : "#000000"
+    , "fontwindow"  : "#000000"
+    , "fontheader"  : "#c2b071"
+    , "fontpanel"   : "#000000"
+    , "fontdisabled": "#828282"
+    , "variant" : "#515072"
+    , "span"    : "#515072"
+    , "fspan": "#c2b071"
+}

@@ -1,0 +1,14 @@
+{
+	"project_name":"AlphaWolf"
+	,"http":""
+	,"mysql_database":"wolfdb"
+	,"mysql_host":"localhost"
+	,"mysql_port":"3306"
+	,"mysql_pswd":""
+	,"mysql_user":"root"
+	,"mail_check":"0"
+	,"olx_dev_code":"66474a3c0669f9aecc4550497fa510b23d3bc8d1"
+	,"olx_dev_pswd":"074dd7981cacec1af55d187620e43445"
+	,"project_owner":""
+	,"enterprise":"AlphaWolf"
+}
